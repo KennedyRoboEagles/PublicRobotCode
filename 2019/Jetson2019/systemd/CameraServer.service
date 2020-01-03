@@ -1,0 +1,13 @@
+[Unit]
+Description=Camera Server service.
+
+[Service]
+Type=simple
+WorkingDirectory=/home/nvidia/frc/CameraServer
+ExecStart=/bin/bash /opt/frc/bin/start_camera_server.sh
+Restart=on-failure
+Environment="LD_LIBRARY_PATH=/usr/local/wpilib/lib"
+
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,1 @@
+export SRC_TOP=$(pwd)

@@ -1,0 +1,12 @@
+[Unit]
+Description=roboRIO Date Service.
+
+[Service]
+Type=simple
+User=nvidia
+Group=nvidia
+ExecStart=/bin/bash /opt/frc/bin/start_date_service.sh
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

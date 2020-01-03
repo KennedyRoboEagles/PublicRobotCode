@@ -1,0 +1,15 @@
+[Unit]
+Description=Networktables logger service.
+
+[Service]
+Type=simple
+User=nvidia
+Group=nvidia
+WorkingDirectory=/home/nvidia/frc/Logger
+ExecStart=/bin/bash /opt/frc/bin/start_nt_logger.sh
+Restart=on-failure
+Environment="LD_LIBRARY_PATH=/usr/local/wpilib/lib"
+
+
+[Install]
+WantedBy=multi-user.target

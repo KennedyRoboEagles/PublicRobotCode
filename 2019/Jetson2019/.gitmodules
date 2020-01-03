@@ -1,0 +1,9 @@
+[submodule "Logger/gflags"]
+	path = vendor/gflags
+	url = https://github.com/gflags/gflags.git
+[submodule "Logger/SQLiteCpp"]
+	path = vendor/SQLiteCpp
+	url = https://github.com/SRombauts/SQLiteCpp.git
+[submodule "vendor/json"]
+	path = vendor/json
+	url = https://github.com/nlohmann/json.git
