@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.team254.lib.spline.QuinticHermiteOptimizerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-27T03:58:53" hostname="Ryans-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="test()" classname="com.team254.lib.spline.QuinticHermiteOptimizerTest" time="0.011"/>
+  <system-out><![CDATA[Optimization time (ms): 1
+Optimization time (ms): 5
+Optimization time (ms): 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

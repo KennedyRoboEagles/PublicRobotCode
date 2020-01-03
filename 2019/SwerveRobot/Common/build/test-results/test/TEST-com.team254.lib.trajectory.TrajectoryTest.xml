@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.team254.lib.trajectory.TrajectoryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-12-27T03:58:53" hostname="Ryans-MacBook-Pro.local" time="0.0">
+  <properties/>
+  <testcase name="testConstruction()" classname="com.team254.lib.trajectory.TrajectoryTest" time="0.0"/>
+  <testcase name="testStateAccessors()" classname="com.team254.lib.trajectory.TrajectoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kennedyrobotics.drivers.lightdrive.StatusTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-12-27T03:58:52" hostname="Ryans-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="modeTest()" classname="com.kennedyrobotics.drivers.lightdrive.StatusTest" time="0.0"/>
+  <testcase name="sanityTest()" classname="com.kennedyrobotics.drivers.lightdrive.StatusTest" time="0.0"/>
+  <testcase name="enabledFlagTest()" classname="com.kennedyrobotics.drivers.lightdrive.StatusTest" time="0.001"/>
+  <testcase name="bankTripFlagTest()" classname="com.kennedyrobotics.drivers.lightdrive.StatusTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.team254.lib.physics.DriveCharacterizationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-27T03:58:53" hostname="Ryans-MacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="test()" classname="com.team254.lib.physics.DriveCharacterizationTest" time="0.007"/>
+  <system-out><![CDATA[r^2: 1.0
+r^2: 1.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

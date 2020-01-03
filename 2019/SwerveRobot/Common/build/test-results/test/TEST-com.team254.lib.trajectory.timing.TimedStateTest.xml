@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.team254.lib.trajectory.timing.TimedStateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-27T03:58:52" hostname="Ryans-MacBook-Pro.local" time="0.053">
+  <properties/>
+  <testcase name="test()" classname="com.team254.lib.trajectory.timing.TimedStateTest" time="0.053"/>
+  <system-out><![CDATA[T:(0.000,0.000), R:(0.000 deg), t: 0.000, v: 0.000, a: 1.000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

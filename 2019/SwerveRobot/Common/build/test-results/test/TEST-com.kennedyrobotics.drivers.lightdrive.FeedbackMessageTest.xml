@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kennedyrobotics.drivers.lightdrive.FeedbackMessageTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-12-27T03:58:52" hostname="Ryans-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="constructorTest()" classname="com.kennedyrobotics.drivers.lightdrive.FeedbackMessageTest" time="0.002"/>
+  <testcase name="inputVoltageTest()" classname="com.kennedyrobotics.drivers.lightdrive.FeedbackMessageTest" time="0.0"/>
+  <testcase name="statusTest()" classname="com.kennedyrobotics.drivers.lightdrive.FeedbackMessageTest" time="0.0"/>
+  <testcase name="currentTest()" classname="com.kennedyrobotics.drivers.lightdrive.FeedbackMessageTest" time="0.001"/>
+  <testcase name="firmwareTest()" classname="com.kennedyrobotics.drivers.lightdrive.FeedbackMessageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
